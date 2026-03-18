@@ -1,0 +1,26 @@
+body {
+font-family: Arial;
+background: linear-gradient(to right, orange, pink);
+color: white;
+text-align: center;
+}
+
+header {
+background: purple;
+padding: 10px;
+}
+
+nav a {
+margin: 10px;
+color: yellow;
+text-decoration: none;
+font-weight: bold;
+}
+
+h1 {
+color: cyan;
+}
+
+section {
+padding: 20px;
+}
